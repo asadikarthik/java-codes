@@ -10,7 +10,8 @@ public class palindrome2
         {
             x = x + str.charAt(i);
         }
-        if(n == x)
+        //System.out.println(x);
+        if(n.equals(x))
         {
             System.out.println("Palindrome");
         }

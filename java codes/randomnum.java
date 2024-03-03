@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.Scanner;
 public class randomnum
 {
     public static void main(String args[])
